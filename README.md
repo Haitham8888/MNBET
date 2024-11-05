@@ -28,6 +28,5 @@ Munbat is developed by a passionate team dedicated to supporting sustainable agr
 - Ahmed Hattan
 - Haitham Hattan
 
-![image](https://github.com/user-attachments/assets/b917d6eb-837e-42d8-8fbd-0017c0a0db58)
-![image](https://github.com/user-attachments/assets/a52e1ba3-66cb-4788-8dc1-7af53ba5637f)
+![image](https://github.com/user-attachments/assets/cc6ffbf2-198b-4b7b-996c-105029f513b8)
 
